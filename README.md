@@ -83,7 +83,7 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 Akame-Project is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
 
 #### Contribtors
-- [Ano](https://github.com/Vckyou)
+- [Vicky](https://github.com/Vckyou)
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Rojserbest](http://github.com/rojserbes): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
