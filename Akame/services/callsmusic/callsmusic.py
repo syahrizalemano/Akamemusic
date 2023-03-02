@@ -18,6 +18,8 @@
 from pyrogram import Client
 from pytgcalls import PyTgCalls
 
+from Akame import config
+
 from Akame.config import API_HASH, API_ID, SESSION_NAME
 from Akame.services.queues import queues
 
