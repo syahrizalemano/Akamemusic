@@ -10,7 +10,7 @@ async def main():
         ":memory:", api_id=int(input("API ID:")), api_hash=input("API HASH:")
     ) as app:
         print(await app.export_session_string())
-
+        await curl.close()
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
